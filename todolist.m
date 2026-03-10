@@ -1,7 +1,7 @@
-# To-Do List for Appartement meubl� � Yassa Douala Website
+# To-Do List for Appartement meublé é Yassa Douala Website
 
 ## Project Overview
-- **Company Name:** Appartement meubl� � Yassa Douala
+- **Company Name:** Appartement meublé é Yassa Douala
 - **Directory:** appartement_meubl_yassa_douala
 - **Address/Contact:** 
   - " Immobilier
@@ -28,7 +28,7 @@
 ### 2. Configuration
 - [ ] Update package.json:
   - Name: appartement-meubl-yassa-douala  - Version: 0.1.0- [ ] Update index.html:
-  - Title: Appartement meubl� � Yassa Douala  - Meta description: https://www.facebook.com/profile.php?id=100093416199478...
+  - Title: Appartement meublé é Yassa Douala  - Meta description: https://www.facebook.com/profile.php?id=100093416199478...
 ### 3. Branding & Content
 - [ ] **Logo:** 
   - Source: Create a placeholder logo  - Action: Copy to src/assets/logo.png (or svg).
@@ -44,7 +44,7 @@ theme.extend.colors.primary to match the brand.
 
 ### 4. Content Integration
 - [ ] **Home Page (src/pages/public/Home.jsx):
-  - Replace the hero title with "Appartement meubl� � Yassa Douala".
+  - Replace the hero title with "Appartement meublé é Yassa Douala".
   - Update the subtitle with: "https://www.facebook.com/profile.php?id=100093416199478".
   - Update "Featured Products" if specific images/products are provided (currently using mock data).
 - [ ] **About Page (src/pages/public/About.jsx):
